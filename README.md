@@ -4,7 +4,9 @@ Overview:
 ------------
 The Weather Forecasting Tool is a command line application that provides users with the current weather forecast for a given city. It leverages the OpenWeatherMap API to fetch weather data and parse it using Python. This tool demonstrates the usage of the OpenWeatherMap API, data parsing, and error handling.
 
-https://github.com/Fastest-Coder-First/my_weather_app/assets/111697664/2b77a965-0d12-44a9-827a-e8c2f126c436
+https://github.com/rudra141/Weather_Api_Project/assets/111697664/e0e6dcb6-1c5a-421c-9080-268355ad7ebe
+
+
 
 
 
